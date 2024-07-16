@@ -1,3 +1,6 @@
 cd change directory
 mkdir create directory
+touch create file
+rm for remove file
+
 
